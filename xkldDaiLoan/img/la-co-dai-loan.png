@@ -1,0 +1,903 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<base href="https://cotcoinox.net/" />
+  <title>Lá cờ Đài Loan. Đài Loan , chính thức là Trung Hoa Dân Quốc , là một quốc gia ở Đông Á</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta http-equiv="Content-Language" content="vi" />
+<meta name="description" content="Lá cờ Đài Loan. Đài Loan , chính thức là Trung Hoa Dân Quốc , là một quốc gia ở Đông Á . Lá cờ Đài Loan , Các tình trạng chính trị của Đài Loan vẫn còn chưa chắc chắn">
+<meta name="keywords" content="lá cờ đài loan">
+<meta property="og:url" content="http://cotcoinox.net/la-co-dai-loan">
+<meta property="og:title" content="Lá cờ Đài Loan. Đài Loan , chính thức là Trung Hoa Dân Quốc , là một quốc gia ở Đông Á">
+<meta property="og:description" content="Lá cờ Đài Loan. Đài Loan , chính thức là Trung Hoa Dân Quốc , là một quốc gia ở Đông Á . Lá cờ Đài Loan , Các tình trạng chính trị của Đài Loan vẫn còn chưa chắc chắn">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://cotcoinox.net/datafiles/setone/1577348696_la-co-dai-loan-gia-re-tai-quan-1-tp-hcm.jpeg">
+<meta property="og:site_name" content="Lá cờ Đài Loan. Đài Loan , chính thức là Trung Hoa Dân Quốc , là một quốc gia ở Đông Á">
+<meta property="og:locale" content="vi_VN">
+<link rel="image_src" href="https://cotcoinox.net/datafiles/setone/1577348696_la-co-dai-loan-gia-re-tai-quan-1-tp-hcm.jpeg">
+<meta itemprop="name" content="Lá cờ Đài Loan. Đài Loan , chính thức là Trung Hoa Dân Quốc , là một quốc gia ở Đông Á">
+<meta itemprop="description" content="Lá cờ Đài Loan. Đài Loan , chính thức là Trung Hoa Dân Quốc , là một quốc gia ở Đông Á . Lá cờ Đài Loan , Các tình trạng chính trị của Đài Loan vẫn còn chưa chắc chắn">
+<meta itemprop="image" content="https://cotcoinox.net/datafiles/setone/1577348696_la-co-dai-loan-gia-re-tai-quan-1-tp-hcm.jpeg">
+<meta itemprop="url" content="http://cotcoinox.net/la-co-dai-loan">
+<link href="css/style.css?v=1730472783" rel="stylesheet" type="text/css" />
+<link href="css/style_responsive.css" rel="stylesheet" type="text/css" />
+<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+<link href="css/shake.css" rel="stylesheet" type="text/css">
+<link href="css/animate.css" rel="stylesheet" type="text/css">
+<link href="css/animation.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="https://cotcoinox.net/datafiles/setone/1535024016_cot-co-inox-304-tphcm-logo-tinta.png" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="css/galleria.folio.css"/>
+<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+<script type='text/javascript' src='//cdn.jsdelivr.net/jquery.marquee/1.3.9/jquery.marquee.min.js'></script>
+<script type="text/javascript" src="js/jquery.carouFredSel.js"></script>
+<script type="text/javascript" src="js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="js/jquery.idTabs.min.js"></script>
+<script type="text/javascript" src="js/script218.js"></script>
+<script type="text/javascript" src="images/fancybox/jquery.fancybox.js"></script>
+<script type="text/javascript" language="javascript" src="js/flexcroll.js"></script>
+<script src="js/galleria-1.2.8.min.js"></script>
+<script type='text/javascript' src='js/jquery.cookie.js'></script>
+<script type='text/javascript' src='js/jquery.hoverIntent.minified.js'></script>
+<script type='text/javascript' src='js/jquery.dcjqaccordion.2.7.min.js'></script>
+<script type="text/javascript">
+$(document).ready(function($){
+					$('#accordion-1').dcAccordion({
+						eventType: 'click',
+						autoClose: true,
+						saveState: true,
+						disableLink: true,
+						speed: 'slow',
+						showCount: false,
+						autoExpand: true,
+						cookie	: 'dcjq-accordion-1',
+						classExpand	 : 'dcjq-current-parent'
+					});
+					$('#accordion-2').dcAccordion({
+						eventType: 'click',
+						autoClose: false,
+						saveState: true,
+						disableLink: true,
+						speed: 'fast',
+						classActive: 'test',
+						showCount: true
+					});
+					$('#accordion-3').dcAccordion({
+						eventType: 'click',
+						autoClose: false,
+						saveState: false,
+						disableLink: false,
+						showCount: false,
+						speed: 'slow'
+					});
+					$('#accordion-4').dcAccordion({
+						eventType: 'hover',
+						autoClose: true,
+						saveState: true,
+						disableLink: true,
+						menuClose: false,
+						speed: 'slow',
+						showCount: true
+					});
+					$('#accordion-5').dcAccordion({
+						eventType: 'hover',
+						autoClose: false,
+						saveState: true,
+						disableLink: true,
+						menuClose: true,
+						speed: 'fast',
+						showCount: true
+					});
+					$('#accordion-6').dcAccordion({
+						eventType: 'hover',
+						autoClose: false,
+						saveState: false,
+						disableLink: false,
+						showCount: false,
+						menuClose: true,
+						speed: 'slow'
+					});
+});
+</script>
+<script>
+$(document).ready(function(){
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>
+
+</head>
+<body>
+  <div class="header">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F6Q59S4CS0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F6Q59S4CS0');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MX89R6GZ');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LEXNYTQ5LT');
+</script>
+  <div class="pagewrap">
+    <div class="logo_top"><a href="https://cotcoinox.net" title="Cột cờ inox 304, Cot co inox tphcm. Báo giá cột cờ inox. Logo cot co inox TinTa"><img src='https://cotcoinox.net/datafiles/setone/1535024016_cot-co-inox-304-tphcm-logo-tinta.png' alt="Cột cờ inox 304, Cot co inox tphcm. Báo giá cột cờ inox. Logo cot co inox TinTa"/></a></div>
+    <div class="right_header">
+    <div class="right_header_ot">
+      <div class="menu_top_header_id">
+        <ul>
+          <li class='show '><a href="https://cotcoinox.net" title="Trang chủ">Trang chủ</a></li>
+                                                        <li class='show '><a href="https://cotcoinox.net/gioi-thieu" icons='&rsaquo;' title='Giới thiệu'>Giới thiệu</a>
+                                        </li>
+
+                                                          <li class='show '><a href="https://cotcoinox.net/thanh-tich" icons='&rsaquo;' title='Thành Tích'>Thành Tích</a>
+                                        </li>
+
+                                                          <li class='show '><a href="https://cotcoinox.net/du-an" icons='&rsaquo;' title='Dự án'>Dự án</a>
+                                        </li>
+
+                                                          <li class='show '><a href="https://cotcoinox.net/tin-tuc-su-kien" icons='&rsaquo;' title='Tin tức & sự kiện'>Tin tức & sự kiện</a>
+                                        </li>
+
+                                                          <li class='show '><a href="https://cotcoinox.net/tuyen-dung" icons='&rsaquo;' title='Tuyển dụng'>Tuyển dụng</a>
+                                        </li>
+
+                                                          <li class='show '><a href="https://cotcoinox.net/lien-he" icons='&rsaquo;' title='Liên hệ'>Liên hệ</a>
+                                        </li>
+
+                                                          <li class='show '><a href="https://cotcoinox.net/thanh-toan" icons='&rsaquo;' title='Thanh Toán'>Thanh Toán</a>
+                                        </li>
+
+                        </ul>
+      </div>
+      <div class="mb"><script src="menu_mb/modernizr.custom.js"></script>
+<script src="menu_mb/jquery.dlmenu.js"></script>
+<link rel="stylesheet" type="text/css" href="menu_mb/component.css" />
+<script>
+  $(function() {
+    $( '#dl-menu' ).dlmenu();
+  });
+
+  $(document).ready(function(){
+    $('body').click(function(e) {
+          $('#dl-menu').dlmenu('closeMenu'); 
+    });
+  });
+</script>
+<div class="dv-mnmb mobile">
+  <div id="dl-menu" class="dl-menuwrapper">
+    <button class="dl-trigger cur "></button>
+    <div class="clear"></div>
+      <ul class="dl-menu">
+        <li><a class="home_mb" href="./">Trang chủ</a></li>
+                      
+                                <li class='show '><a href="https://cotcoinox.net/gioi-thieu" icons='&rsaquo;' title='Giới thiệu'>Giới thiệu</a>
+                            </li>
+
+                      
+                                <li class='show '><a href="https://cotcoinox.net/thanh-tich" icons='&rsaquo;' title='Thành Tích'>Thành Tích</a>
+                            </li>
+
+                      
+                                <li class='show '><a href="https://cotcoinox.net/du-an" icons='&rsaquo;' title='Dự án'>Dự án</a>
+                            </li>
+
+                      
+                                <li class='show '><a href="https://cotcoinox.net/tin-tuc-su-kien" icons='&rsaquo;' title='Tin tức & sự kiện'>Tin tức & sự kiện</a>
+                            </li>
+
+                      
+                                <li class='show '><a href="https://cotcoinox.net/tuyen-dung" icons='&rsaquo;' title='Tuyển dụng'>Tuyển dụng</a>
+                            </li>
+
+                      
+                                <li class='show '><a href="https://cotcoinox.net/lien-he" icons='&rsaquo;' title='Liên hệ'>Liên hệ</a>
+                            </li>
+
+                      
+                                <li class='show '><a href="https://cotcoinox.net/thanh-toan" icons='&rsaquo;' title='Thanh Toán'>Thanh Toán</a>
+                            </li>
+
+              </ul>
+  </div>
+  <div class="clear"></div>
+</div></div>
+      <div class="lang_top_id">
+        <ul>
+                      <li><a class='active' href="https://cotcoinox.net/la-co-dai-loan"><img title="Việt Nam" alt="Việt Nam" src="images/vi.gif" width="25" height="17" /></a></li>
+            <li><a  href="https://cotcoinox.net/en/taiwan-flag"><img title="English" alt="English" src="images/en.gif" width="25" height="17" /></a></li>
+          <div class="clr"></div>
+        </ul>
+      </div>
+      <div class="clr"></div>
+      </div>
+      <div class="clr"></div>
+      <div class="right_ot">
+        <ul id="menu">
+              <li class='show '><a href="https://cotcoinox.net/co-de-ban" title='CỜ ĐỂ BÀN'>CỜ ĐỂ BÀN</a>
+            <ul>
+                    </ul>
+          </li>
+              <li class='show '><a href="https://cotcoinox.net/cot-co-van-phong" title='CỘT CỜ VĂN PHÒNG'>CỘT CỜ VĂN PHÒNG</a>
+            <ul>
+                    </ul>
+          </li>
+              <li class='show '><a href="https://cotcoinox.net/cot-co-inox" title='CỘT CỜ INOX'>CỘT CỜ INOX</a>
+            <ul>
+                    </ul>
+          </li>
+              <li class='show '><a href="https://cotcoinox.net/la-co-viet-nam" title='LÁ CỜ VIỆT NAM'>LÁ CỜ VIỆT NAM</a>
+            <ul>
+                    </ul>
+          </li>
+              <li class='show '><a href="https://cotcoinox.net/bao-gia-cot-co" title='BÁO GIÁ CỘT CỜ'>BÁO GIÁ CỘT CỜ</a>
+            <ul>
+                    </ul>
+          </li>
+              <li class='show '><a href="https://cotcoinox.net/thi-cong-cot-co" title='THI CÔNG CỘT CỜ'>THI CÔNG CỘT CỜ</a>
+            <ul>
+                    </ul>
+          </li>
+              <li class='show active has-child'><a href="https://cotcoinox.net/san-pham-khac" title='SẢN PHẨM KHÁC'>SẢN PHẨM KHÁC</a>
+            <ul>
+                      <li><a href="https://cotcoinox.net/phu-kien-inox" icons='&rsaquo;'>PHỤ KIỆN INOX</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/san-pham-inox" icons='&rsaquo;'>SẢN PHẨM INOX</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/cot-chong-set" icons='&rsaquo;'>CỘT CHÓNG SÉT</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/la-co-cac-nuoc" icons='&rsaquo;'>LÁ CỜ CÁC NƯỚC</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/inox-vang-titan" icons='&rsaquo;'>INOX VÀNG TITAN</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/gia-cong-inox-tinta" icons='&rsaquo;'>GIA CÔNG INOX TINTA</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/mang-xoi-inox" icons='&rsaquo;'>MÁNG XỐI INOX</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/cot-den-chieu-sang" icons='&rsaquo;'>CỘT ĐÈN CHIẾU SÁNG</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/cot-chan-inox-tinta" icons='&rsaquo;'>CỘT CHẮN INOX TINTA</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/tru-gan-camera-inox" icons='&rsaquo;'>TRỤ GẮN CAMERA INOX</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/tru-chan-inox-tinta" icons='&rsaquo;'>TRỤ CHẮN INOX TINTA</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/cam-nang-cot-co-gia-re" icons='&rsaquo;'>CẨM NANG CỘT CỜ GIÁ RẺ</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/ban-ghe-ngoai-noi-that" icons='&rsaquo;'>BÀN GHẾ NGOẠI NỘI THẤT</a> 
+              </li>
+                      <li><a href="https://cotcoinox.net/cac-mau-xe-day-inox-tinta" icons='&rsaquo;'>CÁC MẪU XE ĐẨY INOX TINTA</a> 
+              </li>
+                    </ul>
+          </li>
+            </ul>
+                <div class="mb-2"><script src="menu_mb/modernizr.custom.js"></script>
+<script src="menu_mb/jquery.dlmenu.js"></script>
+<link rel="stylesheet" type="text/css" href="menu_mb/component.css" />
+<script>
+  $(function() {
+    $( '#dl-menu-2' ).dlmenu();
+  });
+
+  $(document).ready(function(){
+    $('body').click(function(e) {
+          $('#dl-menu-2').dlmenu('closeMenu'); 
+    });
+  });
+</script>
+<div class="dv-mnmb mobile">
+  <div id="dl-menu-2" class="dl-menuwrapper">
+    <button class="dl-trigger cur "></button>
+    <div class="clear"></div>
+      <ul class="dl-menu">
+        
+                    <li class='show active'><a href="https://cotcoinox.net/co-de-ban" title='CỜ ĐỂ BÀN'>CỜ ĐỂ BÀN</a>
+                      </li>
+
+                    <li class='show active'><a href="https://cotcoinox.net/cot-co-van-phong" title='CỘT CỜ VĂN PHÒNG'>CỘT CỜ VĂN PHÒNG</a>
+                      </li>
+
+                    <li class='show active'><a href="https://cotcoinox.net/cot-co-inox" title='CỘT CỜ INOX'>CỘT CỜ INOX</a>
+                      </li>
+
+                    <li class='show active'><a href="https://cotcoinox.net/la-co-viet-nam" title='LÁ CỜ VIỆT NAM'>LÁ CỜ VIỆT NAM</a>
+                      </li>
+
+                    <li class='show active'><a href="https://cotcoinox.net/bao-gia-cot-co" title='BÁO GIÁ CỘT CỜ'>BÁO GIÁ CỘT CỜ</a>
+                      </li>
+
+                    <li class='show active'><a href="https://cotcoinox.net/thi-cong-cot-co" title='THI CÔNG CỘT CỜ'>THI CÔNG CỘT CỜ</a>
+                      </li>
+
+                    <li class='show active'><a href="https://cotcoinox.net/san-pham-khac" title='SẢN PHẨM KHÁC'>SẢN PHẨM KHÁC</a>
+                      </li>
+
+              </ul>
+  </div>
+  <div class="clear"></div>
+</div></div>
+        </div>
+        <div class="clr"></div>
+      </div>
+      <div class="clr"></div>
+    </div>
+    <div class="clr"></div>
+  </div>
+</div>
+
+
+
+<script type="text/javascript" src="https://web.cmbliss.com/webtools/hotline/js/hotline.js"></script><script type="text/javascript">$("body").hotline({phone:"0987636779",p_right:true,right:29,p_bottom:true,bottom:99,p_left:false,left:0,bg_color:"#e60808",abg_color:"rgba(230, 8, 8, 0.7)",show_bar:true,position:"fixed",});</script>
+
+<div class="zalo-chat-widget" data-oaid="3126684872047075741" data-welcome-message="Rất vui khi được hỗ trợ bạn!" data-autopopup="5" data-width="" data-height=""></div>
+
+<script src="https://sp.zalo.me/plugins/sdk.js"></script>  <div class="conten">
+    <body>
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    </body><article><section>
+<div class="bg_load_page">
+  <div class="pagewrap">
+    <div class="link_page">
+      <h2>LÁ CỜ CÁC NƯỚC</h2>
+      <ul>
+        <li>
+              <a href="https://cotcoinox.net">Trang chủ</a> | <a href="https://cotcoinox.net/san-pham-khac">SẢN PHẨM KHÁC</a> | <a href="https://cotcoinox.net/la-co-cac-nuoc">LÁ CỜ CÁC NƯỚC</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="pagewrap conten_page">
+  <div class="left_conten">
+    <div class="title_page">
+      <h1>LÁ CỜ CÁC NƯỚC</h1>
+      <div class="clr"></div>
+    </div>
+    <div class="padding_pagewrap">
+          <div class="viewLeft">
+                          <div id="bridal_images"> <a href='https://cotcoinox.net/datafiles/setone/1577348696_la-co-dai-loan-gia-re-tai-quan-1-tp-hcm.jpeg' class='cloud-zoom' id='zoom1' rel="position: 'inside' , showTitle: false, adjustX:0, adjustY:0"><img src="https://cotcoinox.net/datafiles/setone/1577348696_la-co-dai-loan-gia-re-tai-quan-1-tp-hcm.jpeg" alt="1577348696_la-co-dai-loan-gia-re-tai-quan-1-tp-hcm.jpeg"></a> </div>
+                    </div>
+          <div class="viewRight">
+            <div class="titleView">LÁ CỜ ĐÀI LOAN</div>
+            <div class="pricePro">
+              Báo giá sản phẩm inox :                0 VNĐ            </div>
+            <ul class="desc">
+              <b>Mẫu: LA CO DAI LOAN GIA RE NHAT TAI HCM</b>
+              <li>Hãng Sản Xuất: CÔNG TY CỔ PHẦN INOX TINTA VIỆT NAM</li>
+              <li>Cam Kết Chất Lượng: Bảo Hành 24 Tháng</li>
+              <li>Số Lượng Sản Phẩm Đặt Hàng: 1000 </li>
+              <li><strong>Báo Giá Bán: Gia công Inox TinTa Chưa Gồm VAT</strong></li>
+            </ul>
+            <form action="#" method="post" name="orderform" id="orderform">
+              <div class="quantity">
+                <p>Chọn Mua Hàng</p>
+                <label>Số Lượng:</label>
+                <input type="button" class="minus" value="-">
+                <input class="input-text qty text" title="Qty" size="4" value="1"  name="quantity" id="quantity" max="50" min="1" step="1">
+                <input type="button" class="plus" value="+">
+                <a onclick="return showCart()" style="cursor:pointer">Mua Hàng</a> </div>
+            </form>
+            <div class="clr"></div>
+            <div class="watch_video"><strong>Video Sản Phẩm : <a class="hand">GIA CÔNG INOX TINTA</a></strong></div>
+            <script type="text/javascript">
+              $(document).ready(function(){
+                $(".watch_video a").click(this, function(){
+                  $(".video_nho iframe").slideToggle();
+                });
+              });
+            </script>
+            <div class="video_nho">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" gesture="media" allowfullscreen></iframe>
+            </div>
+            <div id="sharelink"> 
+              <!-- AddThis Button BEGIN -->
+              <div class="addthis_toolbox addthis_default_style "> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> <a class="addthis_button_tweet"></a> <!-- <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>--> <a class="addthis_counter addthis_pill_style"></a> </div>
+              <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-502225fb496239a5"></script> 
+              <!-- AddThis Button END --> 
+            </div>
+          </div>
+          <div class="clr"></div>                    
+        </div>
+    <div class="title_page">
+      <h2>Chi tiết sản phẩm</h2>
+      <div class="clr"></div>
+    </div>
+    
+    <div class="padding_pagewrap">
+        <div class="showText">
+          <h1 style="text-align:justify"><span style="color:#1abc9c"><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">L&aacute; cờ đ&agrave;i loan. Đ&agrave;i Loan , ch&iacute;nh thức l&agrave; Trung Hoa D&acirc;n Quốc , l&agrave; một quốc gia ở Đ&ocirc;ng &Aacute; .</span></span></span></h1>
+
+<p style="text-align:justify"><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><strong>L&aacute; cờ Đ&agrave;i Loan.</strong> C&aacute;c quốc gia l&aacute;ng giềng bao gồm Cộng h&ograve;a Nh&acirc;n d&acirc;n Trung Hoa ở ph&iacute;a t&acirc;y bắc, Nhật Bản ở ph&iacute;a đ&ocirc;ng bắc v&agrave; Philippines ở ph&iacute;a nam. Với 23,7 triệu d&acirc;n, Đ&agrave;i Loan l&agrave; một trong những quốc gia đ&ocirc;ng d&acirc;n nhất, v&agrave; l&agrave; quốc gia đ&ocirc;ng d&acirc;n nhất v&agrave; nền kinh tế lớn nhất kh&ocirc;ng phải l&agrave; th&agrave;nh vi&ecirc;n của Li&ecirc;n hợp quốc. Đảo Đ&agrave;i Loan c&oacute; diện t&iacute;ch 35.808 km2, với c&aacute;c d&atilde;y n&uacute;i thống trị hai phần ba ph&iacute;a đ&ocirc;ng v&agrave; đồng bằng ở ph&iacute;a t&acirc;y thứ ba, nơi tập trung d&acirc;n số đ&ocirc; thị h&oacute;a cao. Đ&agrave;i Bắc l&agrave; thủ đ&ocirc; v&agrave; khu vực đ&ocirc; thị lớn nhất. C&aacute;c th&agrave;nh phố lớn kh&aacute;c bao gồmCao H&ugrave;ng , Đ&agrave;i Trung , Đ&agrave;i Nam v&agrave; Đ&agrave;o Vi&ecirc;n .&nbsp;</span></span></p>
+
+<p style="text-align:justify"><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">Nền kinh tế c&ocirc;ng nghiệp định hướng xuất khẩu của Đ&agrave;i Loan l&agrave; lớn thứ 21 tr&ecirc;n thế giới, với sự đ&oacute;ng g&oacute;p lớn từ sản xuất th&eacute;p, m&aacute;y m&oacute;c, điện tử v&agrave; h&oacute;a chất. Đ&agrave;i Loan l&agrave; một quốc gia ph&aacute;t triển ,xếp thứ 15 về GDP b&igrave;nh qu&acirc;n đầu người . N&oacute; được xếp hạng cao về tự do ch&iacute;nh trị v&agrave; d&acirc;n sự, gi&aacute;o dục, chăm s&oacute;c sức khỏe v&agrave; ph&aacute;t triển con người.&nbsp;<br />
+Người d&acirc;n bản địa Đ&agrave;i Loan định cư đảo Đ&agrave;i Loan khoảng 6.000 năm trước. V&agrave;o thế kỷ 17, sự cai trị của H&agrave; Lan đ&atilde; mở ra h&ograve;n đảo để nhập cư h&agrave;ng loạt người H&aacute;n . Sau khi t&oacute;m tắt Vương quốc Đ&ocirc;ng Ninh trong c&aacute;c bộ phận của khu vực ph&iacute;a nam v&agrave; ph&iacute;a t&acirc;y của h&ograve;n đảo, h&ograve;n đảo n&agrave;y đ&atilde; được s&aacute;p nhập trong 1683 bởi c&aacute;c triều đại nh&agrave; Thanh của Trung Quốc, v&agrave; nhượng lại cho Đế quốc Nhật Bản v&agrave;o năm 1895. Sau khi Nhật Bản đầu h&agrave;ng v&agrave;o năm 1945, Cộng h&ograve;a Trung Quốc , đ&atilde; lật đổ v&agrave; kế vị nh&agrave; Thanh v&agrave;o năm 1911 , thay mặt Li&ecirc;n minh Thế chiến II kiểm so&aacute;t Đ&agrave;i Loan. Việc nối lại Nội chiến Trung Quốc đ&atilde; dẫn đến sự mất m&aacute;t của Đại lục đối với Đảng Cộng sản Trung Quốc v&agrave; chuyến bay của ch&iacute;nh phủ Trung Hoa D&acirc;n Quốc đến Đ&agrave;i Loan năm 1949. Mặc d&ugrave; ch&iacute;nh phủ Trung Hoa D&acirc;n Quốc tiếp tục tuy&ecirc;n bố l&agrave; đại diện hợp ph&aacute;p của Trung Quốc , kể từ năm 1950 quyền t&agrave;i ph&aacute;n hiệu quả đ&atilde; được giới hạn ở Đ&agrave;i Loan v&agrave; nhiều h&ograve;n đảo nhỏ hơn . Đầu những năm 1960, Đ&agrave;i Loan bước v&agrave;o thời kỳ tăng trưởng kinh tế v&agrave; c&ocirc;ng nghiệp h&oacute;a nhanh ch&oacute;ng được gọi l&agrave; &quot; Ph&eacute;p m&agrave;u Đ&agrave;i Loan &quot;. V&agrave;o cuối những năm 1980 v&agrave; đầu những năm 1990, Trung Hoa D&acirc;n Quốc đ&atilde; chuyển từ chế độ độc t&agrave;i qu&acirc;n sự độc đảng sang chế độ d&acirc;n chủ đa đảng với hệ thống b&aacute;n tổng thống . <strong>L&aacute; cờ Đ&agrave;i Loan gi&aacute; rẻ.</strong></span></span></p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><a href="https://cotcoinox.net/co-de-ban" target="_blank"><img alt="Lá cờ đài loan. Đài Loan , chính thức là Trung Hoa Dân Quốc , là một quốc gia ở Đông Á" height="533" src="/contents_tinta/images/la-co-dai-loan-gia-re-tai-quan-1-tp-hcm.jpeg" width="800" /></a>
+
+<figcaption>L&aacute; cờ đ&agrave;i loan. Đ&agrave;i Loan , ch&iacute;nh thức l&agrave; Trung Hoa D&acirc;n Quốc , l&agrave; một quốc gia ở Đ&ocirc;ng &Aacute;</figcaption>
+</figure>
+</div>
+
+<h2 style="text-align:justify"><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif"><span style="color:#e74c3c">L&aacute; cờ Đ&agrave;i Loan ,&nbsp;C&aacute;c t&igrave;nh trạng ch&iacute;nh trị của Đ&agrave;i Loan vẫn c&ograve;n chưa chắc chắn.</span></span></span></h2>
+
+<p style="text-align:justify"><span style="font-size:16px"><span style="font-family:Times New Roman,Times,serif">C&aacute;c t&igrave;nh trạng ch&iacute;nh trị của Đ&agrave;i Loan vẫn c&ograve;n chưa chắc chắn. Trung Hoa D&acirc;n Quốc kh&ocirc;ng c&ograve;n l&agrave; th&agrave;nh vi&ecirc;n của Li&ecirc;n Hợp Quốc, đ&atilde; được thay thế bởi Trung Quốc v&agrave;o năm 1971 . Đ&agrave;i Loan được PRC tuy&ecirc;n bố, từ chối quan hệ ngoại giao với c&aacute;c nước c&ocirc;ng nhận ROC. Đ&agrave;i Loan duy tr&igrave; quan hệ ch&iacute;nh thức với 14 trong số 193 quốc gia th&agrave;nh vi&ecirc;n Li&ecirc;n Hợp Quốc v&agrave; T&ograve;a th&aacute;nh . C&aacute;c tổ chức quốc tế m&agrave; PRC tham gia hoặc từ chối cấp tư c&aacute;ch th&agrave;nh vi&ecirc;n cho Đ&agrave;i Loan hoặc chỉ cho ph&eacute;p họ tham gia tr&ecirc;n cơ sở ngo&agrave;i quốc doanh. Đ&agrave;i Loan l&agrave; th&agrave;nh vi&ecirc;n của Tổ chức Thương mại Thế giới , Hợp t&aacute;c Kinh tế Ch&acirc;u &Aacute;-Th&aacute;i B&igrave;nh Dương v&agrave; Ng&acirc;n h&agrave;ng Ph&aacute;t triển Ch&acirc;u &Aacute;dưới nhiều t&ecirc;n kh&aacute;c nhau. Nước v&agrave; c&aacute;c nước c&oacute; nền kinh tế lớn gần đ&oacute; duy tr&igrave; mối quan hệ kh&ocirc;ng ch&iacute;nh thức với Đ&agrave;i Loan th&ocirc;ng qua văn ph&ograve;ng đại diện v&agrave; c&aacute;c tổ chức m&agrave; chức năng như de facto c&aacute;c đại sứ qu&aacute;n v&agrave; l&atilde;nh sự qu&aacute;n. Ở trong nước, bộ phận ch&iacute;nh trị lớn l&agrave; giữa c&aacute;c đảng ủng hộ sự thống nhất Trung Quốc cuối c&ugrave;ng v&agrave; th&uacute;c đẩy một bản sắc Trung Quốc tr&aacute;i ngược với những người khao kh&aacute;t độc lập v&agrave; th&uacute;c đẩy bản sắc Đ&agrave;i Loan , mặc d&ugrave; cả hai b&ecirc;n đ&atilde; kiểm duyệt c&aacute;c vị tr&iacute; của m&igrave;nh để mở rộng sự hấp dẫn.&nbsp;L&aacute; cờ Đ&agrave;i Loan gi&aacute; rẻ tại TP HCM.</span></span></p>        </div>
+    </div>
+    <div class="title_page">
+      <h2>Gia công cơ khí inox  - Sản phẩm cùng loại</h2>
+      <div class="clr"></div>
+    </div>
+    <div class="marquee_top">
+      <div class="product_id">
+            <ul>
+          <a href="https://cotcoinox.net/in-co-theo-yeu-cau-tphcm">
+          <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1599011642_in-co-cong-ty-tphcm-theo-yeu-cau-thiet-ke-lo-go-gia-re.jpg" alt="IN CỜ THEO YÊU CẦU TPHCM"></li>
+          <h3>IN CỜ THEO YÊU CẦU TPHCM</h3>
+      <h4>10.000 VNĐ <div class='khuyenmai'>15.000 VNĐ</div></h4>              <p>Mẫu: IN CO THEO YEU CAU TPHCM</p>
+              </a>
+        </ul>
+            <ul>
+          <a href="https://cotcoinox.net/ban-la-co-my-tphcm-cao-cap">
+          <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1585235623_la-co-my-ban-gia-re-tai-tphcm-usa-flag-buy-in-hcmc-stainless-steel-flagpole.png" alt="BÁN LÁ CỜ MỸ TPHCM CAO CẤP"></li>
+          <h3>BÁN LÁ CỜ MỸ TPHCM CAO CẤP</h3>
+      <h4>123.000 VNĐ <div class='khuyenmai'>132.000 VNĐ</div></h4>              <p>Mẫu: BAN LA CO MY TAI TPHCM</p>
+              </a>
+        </ul>
+            <ul>
+          <a href="https://cotcoinox.net/la-co-cua-hoa-ky-gia-si">
+          <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1577352448_la-co-hoa-ky-gia-si-tai-tp-hcm.jpg" alt="LÁ CỜ CỦA HOA KỲ GIÁ SỈ"></li>
+          <h3>LÁ CỜ CỦA HOA KỲ GIÁ SỈ</h3>
+      <h4>0 VNĐ</h4>              <p>Mẫu: LA CO CUA HOA KY GIA SI</p>
+              </a>
+        </ul>
+            <ul>
+          <a href="https://cotcoinox.net/la-co-liberia-tai-tp-hcm">
+          <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1577430767_quoc-ky-liberia-gia-re-ban-tai-tp-hcm.jpg" alt="LÁ CỜ LIBERIA TẠI TP HCM"></li>
+          <h3>LÁ CỜ LIBERIA TẠI TP HCM</h3>
+      <h4>0 VNĐ</h4>              <p>Mẫu: LA CO LIBERIA TAI TP HCM</p>
+              </a>
+        </ul>
+            <ul>
+          <a href="https://cotcoinox.net/mau-la-co-viet-nam">
+          <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1577350582_la-co-quoc-gia-viet-nam-gia-re-nhat-tp-hcm.jpg" alt="MẪU LÁ CỜ VIỆT NAM"></li>
+          <h3>MẪU LÁ CỜ VIỆT NAM</h3>
+      <h4>0 VNĐ</h4>              <p>Mẫu: LA CO VIET NAM GIA RE TAI TP HCM</p>
+              </a>
+        </ul>
+            <ul>
+          <a href="https://cotcoinox.net/la-co-anh-gia-re-tai-quan-1-hcm">
+          <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1577344365_cau-chuyen-ve-la-quoc-ky-cua-vuong-quoc-anh.jpg" alt="LÁ CỜ ANH GIÁ RẺ TẠI QUẬN 1 HCM"></li>
+          <h3>LÁ CỜ ANH GIÁ RẺ TẠI QUẬN 1 HCM</h3>
+      <h4>0 VNĐ</h4>              <p>Mẫu: LA CO ANH GIA RE TAI QUAN 1 HCM</p>
+              </a>
+        </ul>
+            <div class="clr"></div>
+      </div>
+      <!-- <script>$('.marquee_top').marquee({
+    duration: 30000,
+    gap: 0,
+    delayBeforeStart: 0,
+    direction: 'left',
+    duplicated: true,
+    startVisible: true
+});
+</script> -->
+    </div>
+    <div class="clr"></div>
+  </div>
+  <div class="right_conten">
+  <div class="box_left_conten">
+            <div class="title_page_left">
+        <h2>Danh Mục Sản Phẩm</h2>
+        <div class="clr"></div>
+      </div>
+      <div class="menu_left">
+                    <ul class="accordion" id="accordion-1">
+                            <li class="dcjq-current-parent"><a href='https://cotcoinox.net/bao-gia-cot-co' class="menu_parent" style="cursor: pointer;">BÁO GIÁ CỘT CỜ</a></li>              <li class="dcjq-current-parent"><a href='https://cotcoinox.net/thi-cong-cot-co' class="menu_parent" style="cursor: pointer;">THI CÔNG CỘT CỜ</a></li>              <li class="dcjq-current-parent"><a href='https://cotcoinox.net/co-de-ban' class="menu_parent" style="cursor: pointer;">CỜ ĐỂ BÀN</a></li>              <li class="dcjq-current-parent"><a href='https://cotcoinox.net/cot-co-inox' class="menu_parent" style="cursor: pointer;">CỘT CỜ INOX</a></li>              <li class="dcjq-current-parent"><a href='https://cotcoinox.net/cot-co-van-phong' class="menu_parent" style="cursor: pointer;">CỘT CỜ VĂN PHÒNG</a></li>              <li><a class="menu_parent" style="cursor: pointer;">SẢN PHẨM KHÁC</a><ul><li><a href="https://cotcoinox.net/phu-kien-inox">» PHỤ KIỆN INOX</a></li><li><a href="https://cotcoinox.net/san-pham-inox">» SẢN PHẨM INOX</a></li><li><a href="https://cotcoinox.net/cot-chong-set">» CỘT CHÓNG SÉT</a></li><li><a href="https://cotcoinox.net/la-co-cac-nuoc">» LÁ CỜ CÁC NƯỚC</a></li><li><a href="https://cotcoinox.net/inox-vang-titan">» INOX VÀNG TITAN</a></li><li><a href="https://cotcoinox.net/gia-cong-inox-tinta">» GIA CÔNG INOX TINTA</a></li><li><a href="https://cotcoinox.net/mang-xoi-inox">» MÁNG XỐI INOX</a></li><li><a href="https://cotcoinox.net/cot-den-chieu-sang">» CỘT ĐÈN CHIẾU SÁNG</a></li><li><a href="https://cotcoinox.net/cot-chan-inox-tinta">» CỘT CHẮN INOX TINTA</a></li><li><a href="https://cotcoinox.net/tru-gan-camera-inox">» TRỤ GẮN CAMERA INOX</a></li><li><a href="https://cotcoinox.net/tru-chan-inox-tinta">» TRỤ CHẮN INOX TINTA</a></li><li><a href="https://cotcoinox.net/cam-nang-cot-co-gia-re">» CẨM NANG CỘT CỜ GIÁ RẺ</a></li><li><a href="https://cotcoinox.net/ban-ghe-ngoai-noi-that">» BÀN GHẾ NGOẠI NỘI THẤT</a></li><li><a href="https://cotcoinox.net/cac-mau-xe-day-inox-tinta">» CÁC MẪU XE ĐẨY INOX TINTA</a></li></ul></li>              <li class="dcjq-current-parent"><a href='https://cotcoinox.net/la-co-viet-nam' class="menu_parent" style="cursor: pointer;">LÁ CỜ VIỆT NAM</a></li>            </ul>
+        </div>
+    </div>
+  <div class="box_left_conten">
+    <div class="title_page_left">
+      <h2>Gia công inox - bán chạy</h2>
+      <div class="clr"></div>
+    </div>
+      <div class="load_left">
+        <div class="marquee">
+          <div class="product_id_left">
+                    <ul>
+              <a href="https://cotcoinox.net/qua-tang-y-nghia-cho-sep-vip" title="Quà tặng ý nghĩa cho sếp VIP">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1667055206_de-cam-co-de-ban-lam-viec-cao-cap-inox-vang-go-da-2.jpg" alt="Quà tặng ý nghĩa cho sếp VIP"></li>
+              <h3>Quà tặng ý nghĩa cho sếp VIP</h3>
+              <h4>2.968.680 VNĐ <div class='khuyenmai'>2.986.860 VNĐ</div></h4>              <p>Mẫu: QUA TANG Y NGHIA CHO SEP</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/mau-xe-day-inox-dep-gia-re" title="MẪU XE ĐẨY INOX ĐẸP GIÁ RẺ">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1663939318_xe-day-hanh-ly-san-bay-tai-hcm.jpg" alt="MẪU XE ĐẨY INOX ĐẸP GIÁ RẺ"></li>
+              <h3>MẪU XE ĐẨY INOX ĐẸP GIÁ RẺ</h3>
+              <h4>9.577.900 VNĐ <div class='khuyenmai'>9.757.900 VNĐ</div></h4>              <p>Mẫu: MAU XE DAY INOX 304 GIA RE</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/hop-but-de-ban-lam-viec-de-co" title="Hộp bút để bàn làm việc đế cờ">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1657117362_Bo-lo-hop-dung-but-de-ban-lam-viec-cao-cap-de-cam-co-qua-tang-7.jpg" alt="Hộp bút để bàn làm việc đế cờ"></li>
+              <h3>Hộp bút để bàn làm việc đế cờ</h3>
+              <h4>2.358.500 VNĐ <div class='khuyenmai'>2.538.500 VNĐ</div></h4>              <p>Mẫu: CO HOP BUT DE BAN LAM VIEC</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-co-inox-304-van-phong" title="cột cờ inox 304 văn phòng đẹp">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1608880813_cot-co-inox-van-phong-dung-trong-nha-cao-1-2-3-4-5-6-met-2.jpg" alt="cột cờ inox 304 văn phòng đẹp"></li>
+              <h3>cột cờ inox 304 văn phòng đẹp</h3>
+              <h4>2.860.000 VNĐ <div class='khuyenmai'>3.160.000 VNĐ</div></h4>              <p>Mẫu: CỘT CỜ INOX 304 VAN PHONG</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/mau-cot-co-inox-dep-gia-re" title="mẫu cột cờ inox đẹp giá rẻ">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1607394950_cot-co-inox-quoc-ky-la-co-quoc-te-cac-nuoc-22.jpg" alt="mẫu cột cờ inox đẹp giá rẻ"></li>
+              <h3>mẫu cột cờ inox đẹp giá rẻ</h3>
+              <h4>2.896.700 VNĐ <div class='khuyenmai'>2.986.700 VNĐ</div></h4>              <p>Mẫu: MAU COT CO INOX 304</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/mau-cot-co-inox-van-phong-dep" title="MẪU CỘT CỜ INOX VĂN PHÒNG ĐẸP">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1607758644_cot-co-inox-van-phong-2m-25m-3m-hcm-25.jpg" alt="MẪU CỘT CỜ INOX VĂN PHÒNG ĐẸP"></li>
+              <h3>MẪU CỘT CỜ INOX VĂN PHÒNG ĐẸP</h3>
+              <h4>1.685.000 VNĐ <div class='khuyenmai'>1.865.000 VNĐ</div></h4>              <p>Mẫu: MAU COT CO VAN PHONG</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-inox-304-nang-ha" title="CỘT INOX 304 NÂNG HẠ">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1587216520_cot-chan-inox-304-cua-cong-xep-12.jpg" alt="CỘT INOX 304 NÂNG HẠ"></li>
+              <h3>CỘT INOX 304 NÂNG HẠ</h3>
+              <h4>685.700 VNĐ <div class='khuyenmai'>865.700 VNĐ</div></h4>              <p>Mẫu: COT INOX 304 SUS</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-chong-va-dap-inox" title="CỘT CHỐNG VA ĐẬP INOX">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1587224216_cot-chan-inox-304-cua-cong-xep-3.jpg" alt="CỘT CHỐNG VA ĐẬP INOX"></li>
+              <h3>CỘT CHỐNG VA ĐẬP INOX</h3>
+              <h4>1.682.500 VNĐ <div class='khuyenmai'>1.862.500 VNĐ</div></h4>              <p>Mẫu: COT CHONG VA DAP INOX</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/chan-ban-an-inox-ma-vang" title="CHÂN BÀN ĂN INOX MẠ VÀNG PVD TIÊU CHUẨN CAO BÁO GIÁ PHÙ HỢP">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1575862427_titanium-with-stainless-steel-gia-cong-lan-can-cau-thang-inox-vang-titanium-tphcm-4.jpg" alt="CHÂN BÀN ĂN INOX MẠ VÀNG PVD TIÊU CHUẨN CAO BÁO GIÁ PHÙ HỢP"></li>
+              <h3>CHÂN BÀN ĂN INOX MẠ VÀNG PVD TIÊU CHUẨN CAO BÁO GIÁ PHÙ HỢP</h3>
+              <h4>0 VNĐ</h4>              <p>Mẫu: CHAN BAN AN INOX MA VANG TITAN GOLD BONG GUONG XUOC MO</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/gia-cong-inox-ma-vang-xuoc-bong-mo-dong" title="GIA CÔNG INOX MẠ VÀNG MỜ XƯỚC BÓNG ĐỒNG GƯƠNG HÔNG XÁM ĐỎ">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1575860305_gia-cong-inox-vang-tai-tphcm-gia-re-gold-titanium-plating.jpg" alt="GIA CÔNG INOX MẠ VÀNG MỜ XƯỚC BÓNG ĐỒNG GƯƠNG HÔNG XÁM ĐỎ"></li>
+              <h3>GIA CÔNG INOX MẠ VÀNG MỜ XƯỚC BÓNG ĐỒNG GƯƠNG HÔNG XÁM ĐỎ</h3>
+              <h4>68.000 VNĐ <div class='khuyenmai'>85.600 VNĐ</div></h4>              <p>Mẫu: GIA CÔNG INOX MẠ VÀNG XƯỚC BÓNG MỜ ĐỒNG</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/ban-co-to-quoc-tai-da-nang" title="BÁN CỜ TỔ QUỐC TẠI ĐÀ NẴNG">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1571187573_la-co-viet-quoc-ky-vietnam-tphcm-3.jpg" alt="BÁN CỜ TỔ QUỐC TẠI ĐÀ NẴNG"></li>
+              <h3>BÁN CỜ TỔ QUỐC TẠI ĐÀ NẴNG</h3>
+              <h4>135.000 VNĐ <div class='khuyenmai'>153.000 VNĐ</div></h4>              <p>Mẫu: 4002 BAN CO TO QUOC TAI DA NANG GIA RE CHAT LUONG CAO CAP</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-co-inox-van-phong-gia-bao-nhieu" title="CỘT CỜ INOX VĂN PHÒNG GIÁ BAO NHIÊU">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1571978956_mua-ban-cot-co-inox-van-phong-toan-quoc-13.jpg" alt="CỘT CỜ INOX VĂN PHÒNG GIÁ BAO NHIÊU"></li>
+              <h3>CỘT CỜ INOX VĂN PHÒNG GIÁ BAO NHIÊU</h3>
+              <h4>869.000 VNĐ <div class='khuyenmai'>968.000 VNĐ</div></h4>              <p>Mẫu: COT CO INOX GIA BAO NHIEU - GOI NGAY 0987636779</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-co-inox-gia-re" title="CỘT CỜ INOX GIÁ RẺ">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1571546984_cot-co-inox-van-phong-ma-vang-titan-sai-gon-2.jpg" alt="CỘT CỜ INOX GIÁ RẺ"></li>
+              <h3>CỘT CỜ INOX GIÁ RẺ</h3>
+              <h4>965.200 VNĐ <div class='khuyenmai'>1.254.500 VNĐ</div></h4>              <p>Mẫu: 4078 STAINLESS STEEL FLAGPOLE CHEAP PRICE</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/bao-gia-cot-co-inox-tinta" title="BÁO GIÁ CỘT CỜ INOX TINTA">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1571121065_cot-co-inox-quoc-ky-la-co-quoc-te-cac-nuoc-15.jpg" alt="BÁO GIÁ CỘT CỜ INOX TINTA"></li>
+              <h3>BÁO GIÁ CỘT CỜ INOX TINTA</h3>
+              <h4>16.856.000 VNĐ <div class='khuyenmai'>18.656.000 VNĐ</div></h4>              <p>Mẫu: BAO GIA COT CO INOX 304 TAI TPHCM</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-co-quay-360-la-gi" title="CỘT CỜ QUAY 360 LÀ GÌ">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1573445814_phu-kien-inox-cot-co-inox-304-1.jpg" alt="CỘT CỜ QUAY 360 LÀ GÌ"></li>
+              <h3>CỘT CỜ QUAY 360 LÀ GÌ</h3>
+              <h4>26.856.000 VNĐ <div class='khuyenmai'>28.656.000 VNĐ</div></h4>              <p>Mẫu: 6114 COT CO QUAY 360 LA GI</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-co-inox-tay-quay-ngoai" title="CỘT CỜ INOX TAY QUAY NGOÀI">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1574048930_cot-co-inox-tai-tphcm-moc-tay-quay-chuoi-hat-thanh-treo.jpg" alt="CỘT CỜ INOX TAY QUAY NGOÀI"></li>
+              <h3>CỘT CỜ INOX TAY QUAY NGOÀI</h3>
+              <h4>592.000 VNĐ</h4>              <p>Mẫu: COT CO INOX TAY QUAY NGOAI</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/den-chieu-sang-cot-co-inox" title="ĐÈN CHIẾU SÁNG CỘT CỜ INOX">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1574218383_cot-co-inox-304-tphcm-den-nang-luong-cot-co-inox-tinta.png" alt="ĐÈN CHIẾU SÁNG CỘT CỜ INOX"></li>
+              <h3>ĐÈN CHIẾU SÁNG CỘT CỜ INOX</h3>
+              <h4>1.600.000 VNĐ <div class='khuyenmai'>1.850.000 VNĐ</div></h4>              <p>Mẫu: ĐEN CHIEU SANG COT CO INOX</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-co-san-truong" title="CỘT CỜ SÂN TRƯỜNG">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1574039141_cot-co-inox-phoi-canh-cot-co-tinta-8.jpg" alt="CỘT CỜ SÂN TRƯỜNG"></li>
+              <h3>CỘT CỜ SÂN TRƯỜNG</h3>
+              <h4>7.865.000 VNĐ</h4>              <p>Mẫu: COT CO SAN TRUONG</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-co-van-phong-inox-vang" title="CỘT CỜ VĂN PHÒNG INOX VÀNG">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1571978672_flagpoles-and-flags-flag-poles-any-country-in-the-world.jpg" alt="CỘT CỜ VĂN PHÒNG INOX VÀNG"></li>
+              <h3>CỘT CỜ VĂN PHÒNG INOX VÀNG</h3>
+              <h4>1.658.200 VNĐ <div class='khuyenmai'>1.865.200 VNĐ</div></h4>              <p>Mẫu: 4098 FLAGPOLES AND FLAGS</p>
+              </a>
+            </ul>
+                    <ul>
+              <a href="https://cotcoinox.net/cot-co-inox-cao-1-5-met" title="CỘT CỜ INOX CAO 1.5 MÉT">
+              <li><img src="https://cotcoinox.net/datafiles/setone/thumb_1571481626_mua-ban-cot-co-inox-van-phong-toan-quoc-21.jpg" alt="CỘT CỜ INOX CAO 1.5 MÉT"></li>
+              <h3>CỘT CỜ INOX CAO 1.5 MÉT</h3>
+              <h4>960.000 VNĐ <div class='khuyenmai'>1.096.000 VNĐ</div></h4>              <p>Mẫu: 4062 COT CO INOX CAO 1.5 MÉT</p>
+              </a>
+            </ul>
+                  <div class="clr"></div>
+        </div>
+      </div>
+  <script>$('.marquee').marquee({
+      duration: 19000,
+      gap: 0,
+      delayBeforeStart: 0,
+      direction: 'up',
+      duplicated: true,
+      startVisible: true
+  });
+  </script> 
+    </div>
+  </div>
+  <div class="box_left_conten">
+    <div class="title_page_left">
+      <h2>GIA CÔNG INOX - Tin nóng</h2>
+      <div class="clr"></div>
+    </div>
+    <div class="load_left">
+      <div class="newsRight">
+        <div class="slideNews_box">
+                <a href="https://cotcoinox.net/cot-co-inox-quay-360-do-la-gi-va-uu-nhuoc-diem" title="Cột cờ inox quay 360 độ là gì và ưu nhược điểm"> <img src="https://cotcoinox.net/datafiles/setone/thumb_1709541512_cot-co-dieu-khien-dien-tu-xa-quay-360-do-nha-trang-tinta-1.jpg" alt="Cột cờ inox quay 360 độ là gì và ưu nhược điểm">
+          <h2>Cột cờ inox quay 360 độ là gì và ưu nhược điểm</h2>
+          <div class="clr"></div>
+          </a>
+                <a href="https://cotcoinox.net/chung-toi-muon-gioi-thieu-toi-ban-doc-ve-cot-co-inox" title="Chúng tôi muốn giới thiệu tới bạn đọc về cột cờ inox"> <img src="https://cotcoinox.net/datafiles/setone/thumb_1626139977_cot-co-inox-304-ngoai-troi-tphcm-gia-re-chat-luong-cao-3.jpg" alt="Chúng tôi muốn giới thiệu tới bạn đọc về cột cờ inox">
+          <h2>Chúng tôi muốn giới thiệu tới bạn đọc về cột cờ inox</h2>
+          <div class="clr"></div>
+          </a>
+                <a href="https://cotcoinox.net/lap-dat-cot-co-van-phong-trong-buoi-hop-ngoai-giao" title="Lắp đặt cột cờ văn phòng trong buổi họp ngoại giao"> <img src="https://cotcoinox.net/datafiles/setone/thumb_1626140009_cot-co-inox-van-phong-tang-chinh-chieu-cao-bao-gia-ban-re-tai-quan-2.jpg" alt="Lắp đặt cột cờ văn phòng trong buổi họp ngoại giao">
+          <h2>Lắp đặt cột cờ văn phòng trong buổi họp ngoại giao</h2>
+          <div class="clr"></div>
+          </a>
+                <a href="https://cotcoinox.net/cot-co-van-phong-dien-ra-cuoc-hop-tot-dep" title="Cột cờ văn phòng diễn ra cuộc họp tốt đẹp"> <img src="https://cotcoinox.net/datafiles/setone/thumb_1626140020_cot-co-inox-van-phong-tang-chinh-chieu-cao-bao-gia-ban-re-tai-quan-4.jpg" alt="Cột cờ văn phòng diễn ra cuộc họp tốt đẹp">
+          <h2>Cột cờ văn phòng diễn ra cuộc họp tốt đẹp</h2>
+          <div class="clr"></div>
+          </a>
+                <a href="https://cotcoinox.net/mach-ban-cac-luu-y-khi-su-dung-cot-co-bang-inox" title="Mách bạn các lưu ý khi sử dụng cột cờ bằng inox"> <img src="https://cotcoinox.net/datafiles/setone/thumb_1626139773_cheapest-quotationprice-for-flagpoles-made-in-vietnam-hcmc-2.jpg" alt="Mách bạn các lưu ý khi sử dụng cột cờ bằng inox">
+          <h2>Mách bạn các lưu ý khi sử dụng cột cờ bằng inox</h2>
+          <div class="clr"></div>
+          </a>
+                <div class="clr"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="box_left_conten">
+    <div class="title_page_left">
+      <h2>Hỗ trợ khách hàng tinta</h2>
+      <div class="clr"></div>
+    </div>
+    <div class="load_left">
+      <div class="list-yahoo">
+                <li><a href="skype:HotrokythuatMrThai?call" class="last">Hỗ trợ thông tin chung</a>
+            <div class='support_phone'><a href="tel:Hotline / Zalo : 0987636779"><span>Hotline / Zalo : 0987636779</span></a> <br>Mr Hoang Thai (Vietnam/English)</div>
+            <p><a href="/cdn-cgi/l/email-protection#285c41465c49685c41465c49065e46081308414647505c41465c49684f45494144064b4745"><span class="__cf_email__" data-cfemail="cabea3a4beab8abea3a4beabe4bca4">[email&#160;protected]</span> ; <span class="__cf_email__" data-cfemail="f79e99988f839e998396b7909a969e9bd994989a">[email&#160;protected]</span></a></p>
+          </li>
+                <li><a href="skype:Lễ Tân - Cty  Inox TinTa VN?call" class="last">Lễ Tân - Cty Inox TinTa VN</a>
+            <div class='support_phone'><a href="tel:028 66736187 - 028 66736186"><span>028 66736187 - 028 66736186</span></a> <br>Ms Thùy Dung (Vietnam / English)</div>
+            <p><a href="/cdn-cgi/l/email-protection#bad3d4d5c2ced3d4cedbfaddd7dbd3d694d9d5d7"><span class="__cf_email__" data-cfemail="046d6a6b7c706d6a7065446369656d682a676b69">[email&#160;protected]</span></a></p>
+          </li>
+                <li><a href="skype:Phòng Kinh Doanh?call" class="last">Phòng Kinh Doanh</a>
+            <div class='support_phone'><a href="tel:0974194339 - 0247 3794337"><span>0974194339 - 0247 3794337</span></a> <br>Hoàng Gia Phú (Mr)</div>
+            <p><a href="/cdn-cgi/l/email-protection#a1d5c8cfd5c0e1d5c8cfd5c08fd7cf"><span class="__cf_email__" data-cfemail="77031e19031637031e190316590119">[email&#160;protected]</span></a></p>
+          </li>
+                <li><a href="skype:Kỹ thuật thiết kế bản vẽ?call" class="last">Kỹ thuật thiết kế bản vẽ</a>
+            <div class='support_phone'><a href="tel:Hotlines / Zalo : 0982870339"><span>Hotlines / Zalo : 0982870339</span></a> <br>Mr Viết Sáu (Vietnam/English)</div>
+            <p><a href="/cdn-cgi/l/email-protection#741f0d001c011500001d1a001534001d1a00155a021a"><span class="__cf_email__" data-cfemail="f3988a879b869287879a9d8792b3879a9d8792dd859d">[email&#160;protected]</span></a></p>
+          </li>
+            </div>
+    </div>
+  </div>
+</div>  <div class="clr"></div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+  function showCart(){
+    var soluong = $('#quantity').val();
+    if(isNaN(soluong) || soluong <= 0 || !Number.isSafeInteger(parseFloat(soluong)))
+    {
+      alert('Gia công cơ khí inox tphcm - Số lượng không hợp lệ');
+      $("#quantity").focus();
+      return false;
+    }else 
+    {
+      $.ajax({
+        type: "POST",
+        url: "https://cotcoinox.net/cart",
+        data: {"quantity":$('#quantity').val(), "id_sp":"850"},
+        success: function(data){
+          var js_db = JSON.parse(data);
+          if(js_db.error == 1)
+            window.location.href='https://cotcoinox.net/view_cart_step1';
+          else
+          {
+            alert("Số lượng không đủ để đáp ứng yêu cầu của bạn");
+            location.reload();
+          }
+        }
+      });
+    }
+  }
+
+  $('#quantity').keypress(function(event){
+    var keycode = (event.keyCode ? event.keyCode : event.which);
+    if (keycode == '13') {
+      if(!showCart())
+      {
+        $("#quantity").focus();
+        return false;
+      }
+    }
+  });
+</script></section></article><div class="clr"></div>
+  	<div class="clr"></div>
+  </div>
+  <div class="copyright_bottom">
+    <div class="pagewrap">
+        <h2>CÔNG TY CỔ PHẦN INOX TINTA VIỆT NAM - GIA CÔNG INOX THEO YÊU CẦU TẠI TPHCM</h2>
+        <div class="left_footer_id">
+            <h2>Gia công inox theo yêu cầu, Gia cong inox tphcm. Báo giá rẻ - Trụ sở chính</h2>
+            <p>Địa chỉ&nbsp; &nbsp; &nbsp; :&nbsp; 68 Nguyễn Huệ, F.Bến Ngh&eacute;, Quận 1, TPHCM<br />
+Điện thoại :&nbsp; 028 6673 6186&nbsp; &nbsp; &nbsp; &nbsp; <span style="font-size:11px">&nbsp; </span>Li&ecirc;n hệ :&nbsp; &nbsp;028 6673 6187<br />
+Hotline&nbsp; &nbsp; &nbsp; :&nbsp; 0987 636 779&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fax&nbsp; &nbsp; <span style="font-size:10px">&nbsp; </span><span style="font-size:9px">&nbsp;&nbsp;</span>:&nbsp; &nbsp;0274 3794 337<br />
+Email&nbsp; &nbsp; &nbsp; &nbsp; :&nbsp; <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8afee3e4feebcafee3e4feeba4fce4">[email&#160;protected]</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ;&nbsp; &nbsp; &nbsp; <span style="font-size:10px">&nbsp; </span><span style="font-size:9px">&nbsp;&nbsp;</span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d7beb9b8afa3beb9a3b697b0bab6bebbf9b4b8ba">[email&#160;protected]</a></p>
+
+<p><span style="color:#e74c3c">Cot co inox 304 hcm&nbsp;thi c&ocirc;ng cột cờ inox tphcm&nbsp;thiết kế đẹp</span><br />
+<span style="color:#e74c3c">b&aacute;o gi&aacute; cột cờ inox gi&aacute; rẻ&nbsp; mẫu cột cờ trường học&nbsp;,&nbsp;cơ quan</span></p>            <div class="clr"></div>
+        </div>
+        <div class="left_footer_id">
+            <h2>Công ty gia công inox tại tphcm Gia cong inox 304 gia re  -  Văn phòng chi nhánh hcm</h2>
+            <p>Địa chỉ&nbsp; &nbsp;<span style="font-size:12px">&nbsp; &nbsp;&nbsp;</span>:&nbsp; 04 Nguyễn Đ&igrave;nh Chiểu,&nbsp; P. Đakao,&nbsp; Quận 1,&nbsp; TP.HCM<br />
+Điện thoại&nbsp;<span style="font-size:9px"> </span>:&nbsp; 028 6673 6186&nbsp; &nbsp; -&nbsp; &nbsp; 028 6673 6187&nbsp; &nbsp;-&nbsp; <span style="font-size:10px">&nbsp; </span>0983884649<br />
+Hot line&nbsp; &nbsp; <span style="font-size:11px">&nbsp; </span>:&nbsp; 0987 636 779&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fax&nbsp; :&nbsp; <span style="font-size:10px">&nbsp;&nbsp;&nbsp;</span>0274 3794337<br />
+Email&nbsp; &nbsp;<span style="font-size:12px"> &nbsp; &nbsp; &nbsp;</span>:&nbsp; <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d7a3beb9a3b697a3beb9a3b6f9a1b9">[email&#160;protected]</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6e070001161a07001a0f2e09030f0702400d0103">[email&#160;protected]</a></p>
+
+<p><span style="color:#0000ff">Cot co inox 304 . Cột cờ inox tphcm .&nbsp; TinTa thiết kế thi c&ocirc;ng cột cờ inox tại tp hcm, cột cờ inox 304 d&ugrave;ng ngo&agrave;i trời.&nbsp; Mẫu cột cờ đẹp rẻ.</span></p>            <div class="clr"></div>
+        </div>
+        <div class="left_footer_id">
+            <h2>Gia công inox tại Bình Dương. Co so gia cong inox tai Binh Duong bang bao gia re - Nhà máy sản xuất</h2>
+            <p><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:12px">Địa chỉ&nbsp;</span><span style="font-size:10px"> &nbsp; &nbsp;</span><span style="font-size:12px">: L&ocirc; 3,&nbsp; Đường số 10,&nbsp; KCN S&oacute;ng Thần 1,&nbsp; TP&nbsp;Dĩ An,&nbsp; Tỉnh B&igrave;nh Duong.</span><br />
+<span style="font-size:14px">Hot line : 0987 636 779&nbsp; &nbsp; |&nbsp; &nbsp; 0983 88 46 49&nbsp; &nbsp; |&nbsp; &nbsp;</span><span style="font-size:11px"> &nbsp; </span><span style="font-size:14px">Fax: 0274.3794337<br />
+Email&nbsp;&nbsp;&nbsp;&nbsp;: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="aec7c0c1d6dac7c0dacfeec9c3cfc7c280cdc1c3">[email&#160;protected]</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6d190403190c2d190403190c431b03">[email&#160;protected]</a></span></span></p>
+
+<p><span style="color:#ff00ff">Bảng b&aacute;o gi&aacute; cột cờ inox 304 tại tphcm, cột cờ inox gi&aacute; rẻ, cột cờ inox văn ph&ograve;ng, mẫu cột cờ inox d&ugrave;ng<span style="font-size:8px"> </span>trong<span style="font-size:8px"> </span>văn ph&ograve;ng.<span style="font-size:8px"> </span>Thiết kế&nbsp;bản vẽ cột cờ file cad&nbsp;thi c&ocirc;ng cột cờ inox lắp đặt trọn g&oacute;i. Bảo h&agrave;nh 10 năm. Mười năm bảo h&agrave;nh cột cờ inox TinTa.</span></p>            <div class="clr"></div>
+        </div>
+        <div class="clr"></div>
+    </div>
+</div>
+<div class="bottom_id_copyright">
+    <div class="pagewrap">
+        <!-- <p></p> -->
+        <p>Copyright © 7-2019 Bản quyền thuộc về <strong>CÔNG TY CỔ PHẦN INOX TINTA VIỆT NAM </strong> | <a href="https://inoxtinta.com/" title="thiết kế website"
+                                                target="_blank">GIA CÔNG INOX THEO YÊU CẦU TPHCM - Thiết kế và phát triển bởi</a> <a
+                    href="https://inoxtinta.com/" target="_blank">INOX TINTA</a></p>
+        <div class="sharelink">
+            <a title="facebook" href="https://www.facebook.com/inoxtinta.vn" target="_blank"
+               class="addthis_button_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a> <a title="twitter"
+                                                                                                        href="https://twitter.com/inoxtintavn"
+                                                                                                        target="_blank"
+                                                                                                        class="addthis_button_twitter"><i
+                        class="fa fa-twitter" aria-hidden="true"></i></a> <a title="google+"
+                                                                             href="https://www.youtube.com/watch?v=YG9-iQWILDw"
+                                                                             target="_blank"
+                                                                             class="addthis_button_google"><i
+                        class="fa fa-google-plus" aria-hidden="true"></i></a> <a title="youtube"
+                                                                                 href="https://www.youtube.com/watch?v=WgP39F_ITmI"
+                                                                                 target="_top"
+                                                                                 class="addthis_button_email"><i
+                        class="fa fa-youtube"></i></a>
+        </div>
+    </div>
+</div>
+<div id="back-top"><a href="#top">TOP</a></div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+    function DANGKY_email() {
+        var v_email = $("#ip_sentmail").val();
+
+
+        var regex = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        if (regex.test(v_email)) {
+            $.ajax({
+                type: "POST",
+                url: "https://cotcoinox.net/dang-ky-email",
+                data: {"v_email": v_email, "capcha_hd": $('#capcha_hd').val()},
+                success: function (data) {
+                    alert(data);
+                    // $("#txtNameSendmail").val('');
+                    // $("#txtPhoneSendmail").val('');
+                    $("#ip_sentmail").val('');
+                }
+            });
+        }
+        else alert("Bảng báo giá inox rẻ nhất - Địa chỉ email không hợp lệ!");
+    }
+
+    function isNumber(value) {
+        if (isNaN(value) || value <= 0 || !Number.isSafeInteger(parseFloat(value))) {
+            return false;
+        } else return true
+    }
+
+    $('.show').each(function (index) {
+        $(this).removeClass('active');
+        var urlcurrent = $('a', this).attr('href');
+        var url = document.URL;
+        // console.log(urlcurrent);
+        var urlcurrent1 = urlcurrent.split("/");
+        urlcurrent1 = urlcurrent1.slice(-1)[0];
+        var res = url.split("/");
+        res = res.slice(-1)[0];
+        if (url == urlcurrent + '/') {
+            $('.show').eq(0).addClass('active');
+        }
+        else if (urlcurrent1 == res) {
+            $(this).addClass('active');
+        }
+    });
+</script></body>
+</html>

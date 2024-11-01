@@ -21,5 +21,23 @@ namespace xkldDaiLoan
         {
 
         }
+
+        private void btnSuKien_Click(object sender, EventArgs e)
+        {
+            frmSuKien frm = new frmSuKien();
+            frm.ShowDialog();
+        }
+
+        private void btnLuat_Click(object sender, EventArgs e)
+        {
+            frmLuat frm = new frmLuat();
+            frm.ShowDialog();
+        }
+
+        private void btnTuVan_Click(object sender, EventArgs e)
+        {
+            frmTuVan frm = new frmTuVan();
+            frm.ShowDialog();
+        }
     }
 }

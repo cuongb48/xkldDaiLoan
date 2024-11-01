@@ -46,6 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmLuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLuat.Designer.cs">
+      <DependentUpon>frmLuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSuKien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSuKien.Designer.cs">
+      <DependentUpon>frmSuKien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTuVan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTuVan.Designer.cs">
+      <DependentUpon>frmTuVan.cs</DependentUpon>
+    </Compile>
     <Compile Include="TrangChu.cs">
       <SubType>Form</SubType>
     </Compile>

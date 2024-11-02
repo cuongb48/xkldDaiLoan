@@ -63,6 +63,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "frmLuat";
             this.Text = "frmLuat";
+            this.Load += new System.EventHandler(this.frmLuat_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_luat)).EndInit();
             this.ResumeLayout(false);

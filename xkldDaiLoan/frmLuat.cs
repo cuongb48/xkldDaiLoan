@@ -16,5 +16,10 @@ namespace xkldDaiLoan
         {
             InitializeComponent();
         }
+
+        private void dgv_luat_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

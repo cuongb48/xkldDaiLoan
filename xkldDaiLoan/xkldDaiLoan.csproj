@@ -65,6 +65,7 @@
       <DependentUpon>frmTuVan.cs</DependentUpon>
     </Compile>
     <Compile Include="KetNoi.cs" />
+    <Compile Include="suydientien.cs" />
     <Compile Include="TrangChu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -75,6 +76,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmLuat.resx">
       <DependentUpon>frmLuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSuKien.resx">
+      <DependentUpon>frmSuKien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TrangChu.resx">
       <DependentUpon>TrangChu.cs</DependentUpon>

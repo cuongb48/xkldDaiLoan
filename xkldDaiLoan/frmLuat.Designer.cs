@@ -72,6 +72,7 @@
             this.dgv_luat.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgv_luat.Location = new System.Drawing.Point(33, 22);
             this.dgv_luat.Name = "dgv_luat";
+            this.dgv_luat.ReadOnly = true;
             this.dgv_luat.RowHeadersWidth = 51;
             this.dgv_luat.RowTemplate.Height = 24;
             this.dgv_luat.Size = new System.Drawing.Size(512, 544);
